@@ -9,6 +9,7 @@
   width: var(--cWidth);
   max-width: 1920px;
   margin: auto;
+  margin-bottom: 120px;
   z-index: 9;
 }
 .what-box {

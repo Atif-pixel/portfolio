@@ -15,43 +15,45 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>Cyber Security Intern</h4>
+                <h5>EyeSec Cybersecurity</h5>
               </div>
-              <h3>2020</h3>
+              <h3>2023</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
-              </div>
-              <h3>2021</h3>
-            </div>
-            <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
+              Performed vulnerability assessments and penetration testing on
+              multiple web applications. Analyzed network traffic using tools
+              like Burp Suite, Nmap and OWASP ZAP to identify security risks.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
                 <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h5>Fundsroom Infotech</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2024</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Developed production dashboards and internal platforms using
+              React.js, Node.js and PostgreSQL. Integrated APIs, optimized
+              workflows and deployed scalable services using AWS EC2, S3 and
+              CloudFront infrastructure.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Junior Software Developer</h4>
+                <h5>Fundsroom Infotech</h5>
+              </div>
+              <h3>2025</h3>
+            </div>
+            <p>
+              Building SaaS platforms including FundsWeb website builder,
+              Eduroom education system and Funds Mailer analytics platform.
+              Delivering scalable cloud applications with Node.js, AWS and
+              modern full stack technologies.
             </p>
           </div>
         </div>
