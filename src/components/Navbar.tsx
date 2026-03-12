@@ -41,10 +41,10 @@ const Navbar = () => {
   }, []);
   return (
     <>
-      <div className="header">
-        <a href="/#" className="navbar-title" data-cursor="disable">
-          RC
-        </a>
+       <div className="header">
+         <a href="/#" className="navbar-title" data-cursor="disable">
+           AM
+         </a>
         <a
           href="mailto:atifmulla9695@gmail.com"
           className="navbar-connect"
